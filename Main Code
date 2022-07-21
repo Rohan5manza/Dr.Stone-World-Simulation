@@ -1,0 +1,4 @@
+#The User is in stone age, where he has limited natural resources to work upon and create new scientific stuff, as well as limited time(as resources can decompose,etc)
+#The User is given a ist of resources to work with, and a list of tools to use, and recipe to make new inventions. The task is to use all items in appropriate ways.
+#For new inventions, all available resources steadily decline. This program will simulate stone age, and procide user with list of recipes, and user has to first choose
+#list of inventions to do(by specifying input to program), and then program will output recipe, along with resources and the quantity used. 
